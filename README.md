@@ -15,4 +15,4 @@ I am a QA professional with hands-on experience in various domains of testing, i
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhuvan-P&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Bhuvan-P&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
