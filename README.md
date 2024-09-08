@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a QA professional with hands-on experience in various domains of testing, including mobile app testing (Android, iOS), web application testing, API testing, integration testing, ETL testing, and CI/CD pipeline testing. <br>Additionally, I have a foundational knowledge of Python scripting, particularly in managing workflows with the main code part and handling operations such as matching data between different files.
+I am a QA professional with hands-on experience in various domains of testing, including mobile app testing (Android, iOS), web application testing, API testing, integration testing, ETL testing, and CI/CD pipeline testing. <br>Additionally, I have a foundational knowledge of Python scripting, particularly in managing argo workflows and handling operations such as matching data between different files, extract data from database and use python to transform and ingest new data to make a new data file.
 
 
 ## 🌐 Socials:
